@@ -1,0 +1,7 @@
+{
+  "name": "x-memo-item#gh-pages",
+  "private": true,
+  "dependencies": {
+    "x-memo-item": "tc-team/x-memo-item#master"
+  }
+}
